@@ -1,0 +1,8 @@
+[MASTER]
+good-names=i,j,k,ex,Run,_,pk,x,y,z
+min-public-methods=1
+max-too-many-arguments=6
+
+[MESSAGES CONTROL]
+#C0111 = Missing docstring
+disable=C0111,R0913
